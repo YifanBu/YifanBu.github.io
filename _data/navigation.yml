@@ -4,8 +4,11 @@ main:
     url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Data Science"
-    url: /data-science/
+  - title: "Python"
+    url: /Python/   
+   
+  - title: "Data Analysis"
+    url: /data-analysis/
 
   - title: "Machine Learning"
     url: /machine-learning/
