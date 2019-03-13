@@ -113,11 +113,11 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "mailto:buyifan0113@gmail.com"
-      # url: mailto:your.name@email.com
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:buyifan0113@gmail.com
     - label: "Website"
-      icon: "yifanbu.github.io"
-      # url: "https://your-website.com"
+      icon: "fas fa-fw fa-link"
+      url: "https://yifanbu.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -125,8 +125,8 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "https://github.com/YifanBu"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/YifanBu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
