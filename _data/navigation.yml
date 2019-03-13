@@ -6,6 +6,9 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Data Science"
     url: /data-science/
+
+  - title: "Machine Learning"
+    url: /machine-learning/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
