@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:buyifan0113@gmail.com
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yifan-bu-3a7928116"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
