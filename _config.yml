@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Yifan Bu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio_photo.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing data scientist."
   location         : "Melbourne, VIC"
   email            :
