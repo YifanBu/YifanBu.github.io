@@ -5,4 +5,4 @@ header:
   image: "/images/road.jpg"
 ---
 
-I'm a data scientist who excels at data analysis, machine learning and data visualizations.
+I'm a web developer who specializes in web development.

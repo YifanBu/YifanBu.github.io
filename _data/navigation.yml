@@ -4,14 +4,14 @@ main:
     url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Python"
-    url: /Python/   
+  - title: "JavaScript"
+    url: /JavaScript/   
    
-  - title: "Data Analysis"
-    url: /data-analysis/
+  - title: "Web Development"
+    url: /web-development/
 
-  - title: "Machine Learning"
-    url: /machine-learning/
+  - title: "Project"
+    url: /project/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
