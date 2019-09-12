@@ -5,4 +5,4 @@ header:
   image: "/images/road.jpg"
 ---
 
-I'm a web developer who specializes in web development.
+I'm a full stack web developer who specializes in web development.
