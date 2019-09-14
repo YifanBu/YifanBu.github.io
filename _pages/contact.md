@@ -1,6 +1,5 @@
 ---
 layout: archive
 permalink: /contact/
-title: "Contact me via Email"
+title: "Ask questions or work together?"
 author_profile: true
----
