@@ -4,14 +4,14 @@ main:
     url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "JavaScript"
-    url: /JavaScript/   
+  - title: "Blog"
+    url: /blog/   
    
-  - title: "Web Development"
-    url: /web-development/
-
   - title: "Project"
     url: /project/
+
+  - title: "Contact"
+    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

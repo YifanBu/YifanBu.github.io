@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Yifan Bu"
   avatar           : "/images/bio_photo.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing web developer."
+  bio              : "I am a full stack web developer."
   location         : "Melbourne, VIC"
   email            :
   links:
