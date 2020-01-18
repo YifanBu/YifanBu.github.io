@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Ivan Bu"
   avatar           : "/images/bio_photo.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a software engineer."
+  bio              : "I am a software engineer who also specialize in data science."
   location         : "Melbourne, VIC"
   email            :
   links:

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /project/
+permalink: /webdevelopment/
 title: "Project Posts by Tags"
 author_profile: true
 ---
