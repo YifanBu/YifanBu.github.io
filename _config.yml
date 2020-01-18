@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "HOME"
 title_separator          : "-"
 name                     : "Yifan Bu"
-description              : "Web Development Portfolio"
+description              : "Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,18 +106,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yifan Bu"
+  name             : "Ivan Bu"
   avatar           : "/images/bio_photo.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a full stack web developer."
+  bio              : "I am a software engineer."
   location         : "Melbourne, VIC"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:buyifan0113@gmail.com
+      url: mailto:IvanBuAU@gmail.com
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/yifan-bu-3a7928116"
+      url: "https://www.linkedin.com/in/ivan-bu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
