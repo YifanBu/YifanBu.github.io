@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /datascience/
+permalink: /projects/
 title: "Project Posts by Tags"
 author_profile: true
 ---
