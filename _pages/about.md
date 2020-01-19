@@ -1,11 +1,10 @@
 ---
-title: "About"
+title: "Ivan BU"
 permalink: /about/
+author_profile: false
 header:
   image: "/images/road.jpg"
 ---
-
-# Ivan BU
 
 Currently a Software Engineer making data science accessible to all, leveraging React, Redux and Node. 
 
@@ -23,5 +22,4 @@ Education
 
 Contact
 -------
-
 If you're looking to contact me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ivan-bu/) or shoot me an [e-mail](IvanBuAU@gmail.com). :D

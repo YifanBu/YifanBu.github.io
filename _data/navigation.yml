@@ -10,8 +10,6 @@ main:
   - title: "Blog"
     url: /blog/   
 
-  - title: "Contact"
-    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
