@@ -20,6 +20,3 @@ Education
 2012-2016
 :   **Bachelor of Automation Engineer**;  Beihang University (Beijing)
 
-Contact
--------
-If you're looking to contact me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ivan-bu/) or shoot me an [e-mail](IvanBuAU@gmail.com). :D
