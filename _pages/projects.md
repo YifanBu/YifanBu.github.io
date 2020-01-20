@@ -1,14 +1,13 @@
 ---
 layout: archive
 permalink: /projects/
-title: ""
+title: "Here you can find some of my favorite projects. "
 author_profile: true
 ---
 
-# Customers Feedback Collector
+# [Customers Feedback Collector](https://github.com/YifanBu/Feedback-Collector)
 **Technologies used: React, Redux, Express, Google Oauth authentication, API key handling**
 >Allow a startup owner or a product manager to send email messages to a bunch of different users to collect some amount of feedback.
-
 
 # Tour Operator Business Website
 **Technologies used: HTML, Advanced CSS, SASS, Advanced Responsive Design, animations, background video**

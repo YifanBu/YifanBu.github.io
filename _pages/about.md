@@ -23,4 +23,4 @@ Why Work With Me
 ----------------
 There's nothing I enjoy more than designing and developing good websites that can run across devices using the latest technologies available.
 
-I'm super passionate about working in great engineering teams, and building products that solve real problems. Here you can find some of my favorite projects. 
+I'm super passionate about working in great engineering teams, and building products that solve real problems. 

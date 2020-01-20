@@ -1,0 +1,21 @@
+---
+title: "Web Development Project: Budget"
+date: 2019-09-14
+tags: [JavaScript, HTML, CSS]
+header:
+image:
+excerpt: "Web Development, JavaScript, HTML, CSS"
+---
+
+# H1 Heading
+
+## H2 Heading
+
+### H3 Heading
+
+Here is some basic text.
+
+And here is some *italics*
+
+Here is some **bold** text.
+
