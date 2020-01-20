@@ -6,17 +6,21 @@ header:
   image: "/images/road.jpg"
 ---
 
-Currently a Software Engineer making data science accessible to all, leveraging React, Redux and Node. 
-
-I'm super passionate about working in great engineering teams, and building products that solve real problems. Here you can find some of my favorite projects. 
+Who I Am
+--------
+Currently a Software Engineer based in Melbourne, Australia. I have a passion for data science and love to create websites using React, Redux and Node. 
 
 Education
 ---------
+University of Melbourne (2017-2019)
+>**Master of Information Technology**
 
-2017-2019
-:   **Master of Information Technology**;  University of Melbourne
 
+Beihang University (2012-2016)
+>**Bachelor of Automation Engineer**  
 
-2012-2016
-:   **Bachelor of Automation Engineer**;  Beihang University (Beijing)
+Why Work With Me
+----------------
+There's nothing I enjoy more than designing and developing good websites that can run across devices using the latest technologies available.
 
+I'm super passionate about working in great engineering teams, and building products that solve real problems. Here you can find some of my favorite projects. 
