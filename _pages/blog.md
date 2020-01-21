@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /blog/
-title: "Some of My Blogs. "
+title: "Some of My Blogs "
 author_profile: true
 ---
 

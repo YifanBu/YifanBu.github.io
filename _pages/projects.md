@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Some of My Favorite Projects. "
+title: "Some of My Favorite Projects"
 author_profile: true
 ---
 
@@ -19,7 +19,11 @@ author_profile: true
 
 # Recipe Finder
 **Tech Stack: HTML, CSS, asynchronous JavaScript, node, AJAX and APIs**
->Search over one million recipes by integrating a 3rd party API and add the recipe to a shopping list.  
+>Search over one million recipes by integrating a 3rd party API and add the recipe to a shopping list. 
+
+# [Immersive VR Reader](https://youtu.be/XDZK9TErmBA) 
+**Tech Stack: Unity 3D, C# and Oculus VR tool kit**
+>A book reader designed specifically for the world of Virtual Reality.
 
 # Multi-threaded Dictionary Server
 **Tech Stack: Java, JSON, Web Sockets, and Threads**
@@ -28,7 +32,3 @@ author_profile: true
 # Distributed Shared White Board
 **Tech Stack: Java, Socket, RMI, Web service, data storage**
 >Allow multiple users to draw simultaneously on a canvas, which includes a chat window that allows all the current users of the system to broadcast messages to each other.
-
-# Immersive VR Reader 
-**Tech Stack: Unity 3D (C#) and Oculus VR tool kit**
->A media reader designed specifically for the world of Virtual Reality.
