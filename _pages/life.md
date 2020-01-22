@@ -5,3 +5,6 @@ title: "Things I'm Interested In"
 author_profile: true
 ---
 
+PC Builder
+
+Robot Enthusiast

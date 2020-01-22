@@ -1,8 +1,9 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Some of My Favorite Projects"
+title: "Some of My Favorite Projects:"
 author_profile: true
+Classes: wide
 ---
 
 ## [Customers Feedback Collector](https://github.com/YifanBu/Feedback-Collector)
