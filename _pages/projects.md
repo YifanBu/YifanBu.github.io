@@ -21,6 +21,10 @@ author_profile: true
 **Tech Stack: HTML, CSS, asynchronous JavaScript, node, AJAX and APIs**
 >Search over one million recipes by integrating a 3rd party API and add the recipe to a shopping list. 
 
+## MyTask UI Design
+**Tech stack: UX, UI**
+>UI Interfaces of MyTask App
+
 ## [Immersive VR Reader](https://youtu.be/XDZK9TErmBA) 
 **Tech Stack: Unity 3D, C# and Oculus VR tool kit**
 >A book reader designed specifically for the world of Virtual Reality.

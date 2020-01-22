@@ -6,26 +6,32 @@ author_profile: true
 ---
 
 ## How JavaScript Works Under the Hood
->Scope, closures, prototypes, 'this', framework and more. 
+*Scope, closures, prototypes, 'this', framework and more.*
 
-## Algorithms + Data Structure
->The most common coding interview questions (Javascript).
+## Algorithms and Data Structure in JavaScript
+*Some of the most common coding interview questions.*
 
-## Typescript Basics
-> Basic syntax and features of Typescript.
+## Typescript Design Patterns
+*Basic syntax and features of Typescript.*
+
+## Git Source Control
+*Basic Commands and workflow of Git*
 
 ## AWS Serverless APIs & Apps
->Serverless computing with API Gateway, AWS Lambda and other Amazon Web Services.
+*Serverless computing with API Gateway, AWS Lambda and more.*
 
 ## AWS Certified Solutions Architect Associate 
->Preparation for AWS Certified SAA Certification
+*Preparation for AWS Certified SAA Certification.*
+
+## Linux Knowledge
+*Linux Terminal, File System, Automation, Scheduling, Package Managers and more*
 
 ## Python for Data Science and Machine Learning
->Use Numpy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Leatning, Tensorflow and more to analyze data.
+*Numpy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Leatning, Tensorflow and more.*
 
 ## Machine Learning
->Create Machine Learning Algorithms in Python and R.
+*Machine Learning Algorithms in Python and R.*
 
 ## Deep Learning
->Create Deep Learning Algorithms in Python.
+*Deep Learning Algorithms in Python.*
 
