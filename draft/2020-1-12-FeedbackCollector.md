@@ -1,21 +1,18 @@
 ---
-title: "Web Development Project: Budget"
-date: 2019-09-14
-tags: [JavaScript, HTML, CSS]
+title: "Fullstack Web App: Feedback Collector "
+date: 2020-01-12
+tags: [React, Redux, Node, Express, MongoDB]
 header:
 image:
 excerpt: "Web Development, JavaScript, HTML, CSS"
 ---
 
-# H1 Heading
+## Google OAuth: Sign in with Google
 
-## H2 Heading
+### [Passport](http://passportjs.org) Library Components: 
 
-### H3 Heading
+passport: General helpers for handling auth in Express apps
 
-Here is some basic text.
+passport strategy: helpers for authenticating with one very specifc method
 
-And here is some *italics*
-
-Here is some **bold** text.
 

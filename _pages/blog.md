@@ -5,7 +5,7 @@ title: "Some of My Blogs "
 author_profile: true
 ---
 
-# Algorithms + Data Structure
+# [Algorithms + Data Structure](../_posts/2019-09-14-budget.md)
 >The most common coding interview questions (Javascript).
 
 # Typescript Basics
