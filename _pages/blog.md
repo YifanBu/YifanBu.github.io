@@ -5,24 +5,27 @@ title: "Some of My Blogs "
 author_profile: true
 ---
 
-# [Algorithms + Data Structure](../_posts/2019-09-14-budget.md)
+## How JavaScript Works Under the Hood
+>Scope, closures, prototypes, 'this', framework and more. 
+
+## Algorithms + Data Structure
 >The most common coding interview questions (Javascript).
 
-# Typescript Basics
+## Typescript Basics
 > Basic syntax and features of Typescript.
 
-# AWS Serverless APIs & Apps
+## AWS Serverless APIs & Apps
 >Serverless computing with API Gateway, AWS Lambda and other Amazon Web Services.
 
-# AWS Certified Solutions Architect Associate 
+## AWS Certified Solutions Architect Associate 
 >Preparation for AWS Certified SAA Certification
 
-# Python for Data Science and Machine Learning
+## Python for Data Science and Machine Learning
 >Use Numpy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Leatning, Tensorflow and more to analyze data.
 
-# Machine Learning
+## Machine Learning
 >Create Machine Learning Algorithms in Python and R.
 
-# Deep Learning
+## Deep Learning
 >Create Deep Learning Algorithms in Python.
 
