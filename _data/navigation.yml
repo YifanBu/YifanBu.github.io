@@ -10,9 +10,6 @@ main:
   - title: "Blog"
     url: /blog/   
 
-  - title: "Life"
-    url: /life/  
-
   - title: "Contact"
     url: /contact/   
   

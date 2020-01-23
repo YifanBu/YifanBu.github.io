@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-## [Customers Feedback Collector](https://github.com/YifanBu/Feedback-Collector)
+## Customers Feedback Collector
 **Tech Stack: React, Redux, Express, MongoDB, PassportJS, Google OAuth, Stripe, API key handling**
 >Allow a startup owner or a product manager to send email messages to a bunch of different users to collect some amount of feedback.
 
@@ -36,8 +36,8 @@ classes: wide
 
 <a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
 
-## [Immersive VR Reader](https://youtu.be/XDZK9TErmBA) 
-**Tech Stack: Unity 3D, C# and Oculus VR tool kit**
+## Immersive VR Reader
+**Tech Stack: Unity 3D, C# and Oculus**
 >A book reader designed specifically for the world of Virtual Reality.
 
 <a href="https://youtu.be/XDZK9TErmBA" class="btn btn--info">Video</a>
