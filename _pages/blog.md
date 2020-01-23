@@ -6,26 +6,29 @@ author_profile: true
 classes: wide
 ---
 
-## How JavaScript Works Under the Hood
+## [How JavaScript Works Under the Hood](../_posts/2020-01-12-jsunderhood.md)
 *Scope, closures, prototypes, 'this', framework and more.*
 
-## Algorithms and Data Structure in JavaScript
+## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
 *Some of the most common coding interview questions.*
 
-## Typescript Design Patterns
+## [Typescript Design Patterns](../_posts/2019-12-02-TypeScript.md)
 *Basic syntax and features of Typescript.*
 
-## Git Source Control
+## [Git Source Control](../_posts/2019-09-05-git.md)
 *Basic Commands and workflow of Git*
 
-## AWS Serverless APIs & Apps
+## [Linux Knowledge](../_posts/2019-11-05-Linux.md)
+*Linux Terminal, File System, Automation, Scheduling, Package Managers and more*
+
+## [AWS Serverless APIs & Apps](../_posts/2019-10-03-awsServerless.md)
 *Serverless computing with API Gateway, AWS Lambda and more.*
 
 ## AWS Certified Solutions Architect Associate 
 *Preparation for AWS Certified SAA Certification.*
 
-## Linux Knowledge
-*Linux Terminal, File System, Automation, Scheduling, Package Managers and more*
+## [MongoDB Makes Working With Data Simple](../_posts/2019-11-01-MongoDB.md)
+*MongoDB is built on a philosophy that prioritizes performance and efficiency.*
 
 ## Python for Data Science and Machine Learning
 *Numpy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Leatning, Tensorflow and more.*
