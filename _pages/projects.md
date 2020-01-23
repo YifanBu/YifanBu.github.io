@@ -10,7 +10,7 @@ classes: wide
 **Tech Stack: React, Redux, Express, MongoDB, PassportJS, Google OAuth, Stripe, API key handling**
 >Allow a startup owner or a product manager to send email messages to a bunch of different users to collect some amount of feedback.
 
-<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
+<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
 
 ## Tour Operator Business Website
 **Tech Stack: HTML, Advanced CSS, SASS, Advanced Responsive Design, animations, background video**
