@@ -3,7 +3,7 @@ layout: archive
 permalink: /blog/
 title: "Some of My Blogs: "
 author_profile: true
-Classes: wide
+classes: wide
 ---
 
 ## How JavaScript Works Under the Hood
