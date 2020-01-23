@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Some of My Favorite Projects:"
+title: ""
 author_profile: true
 classes: wide
 ---

@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /life/
-title: "Things I'm Interested In"
+title: ""
 author_profile: true
 ---
 
