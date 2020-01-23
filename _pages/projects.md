@@ -9,27 +9,38 @@ classes: wide
 ## [Customers Feedback Collector](https://github.com/YifanBu/Feedback-Collector)
 **Tech Stack: React, Redux, Express, MongoDB, PassportJS, Google OAuth, Stripe, API key handling**
 >Allow a startup owner or a product manager to send email messages to a bunch of different users to collect some amount of feedback.
-<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--success">Repo</a>
+
+<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
 
 ## Tour Operator Business Website
 **Tech Stack: HTML, Advanced CSS, SASS, Advanced Responsive Design, animations, background video**
 >Display information of a company that offers tours in the nature, which has nice animations and cool effects.
 
+<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
+
 ## Food Ordering and Delivery Online System  
 **Tech Stack: HTML, CSS, JavaScript, and jQuery**
 >A website that contains information with simple navigation. Users can sign up on a subscription plan.
+
+<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
 
 ## Recipe Finder
 **Tech Stack: HTML, CSS, asynchronous JavaScript, node, AJAX and APIs**
 >Search over one million recipes by integrating a 3rd party API and add the recipe to a shopping list. 
 
+<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
+
 ## MyTask UI Design
 **Tech stack: UX, UI**
 >UI Interfaces of MyTask App
 
+<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
+
 ## [Immersive VR Reader](https://youtu.be/XDZK9TErmBA) 
 **Tech Stack: Unity 3D, C# and Oculus VR tool kit**
 >A book reader designed specifically for the world of Virtual Reality.
+
+<a href="https://youtu.be/XDZK9TErmBA" class="btn btn--info">Video</a>
 
 ## Multi-threaded Dictionary Server
 **Tech Stack: Java, JSON, Web Sockets, and Threads**
