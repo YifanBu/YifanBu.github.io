@@ -16,31 +16,31 @@ classes: wide
 **Tech Stack: HTML, Advanced CSS, SASS, Advanced Responsive Design, animations, background video**
 >Display information of a company that offers tours in the nature, which has nice animations and cool effects.
 
-<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
+<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
 
 ## Food Ordering and Delivery Online System  
 **Tech Stack: HTML, CSS, JavaScript, and jQuery**
 >A website that contains information with simple navigation. Users can sign up on a subscription plan.
 
-<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
+<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
 
 ## Recipe Finder
 **Tech Stack: HTML, CSS, asynchronous JavaScript, node, AJAX and APIs**
 >Search over one million recipes by integrating a 3rd party API and add the recipe to a shopping list. 
 
-<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
+<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
 
 ## MyTask UI Design
 **Tech stack: UX, UI**
 >UI Interfaces of MyTask App
 
-<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info">Repo</a>
+<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
 
 ## Immersive VR Reader
 **Tech Stack: Unity 3D, C# and Oculus**
 >A book reader designed specifically for the world of Virtual Reality.
 
-<a href="https://youtu.be/XDZK9TErmBA" class="btn btn--info">Video</a>
+<a href="https://youtu.be/XDZK9TErmBA" class="btn btn--info" target="_blank">Video</a>
 
 ## Multi-threaded Dictionary Server
 **Tech Stack: Java, JSON, Web Sockets, and Threads**
