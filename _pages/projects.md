@@ -25,7 +25,7 @@ classes: wide
 <a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
 
 ## Recipe Finder
-**Tech Stack: HTML, CSS, asynchronous JavaScript, node, AJAX and APIs**
+**Tech Stack: HTML, CSS, asynchronous JavaScript, Node, AJAX and APIs**
 >Search over one million recipes by integrating a 3rd party API and add the recipe to a shopping list. 
 
 <a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>

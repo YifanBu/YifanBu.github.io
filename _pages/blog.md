@@ -12,6 +12,9 @@ classes: wide
 ## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
 *Some of the most common coding interview questions.*
 
+## [From Front to Back: Node.js, Express, RESTful API](../_posts/2020-01-25-node.md)
+*Node.js and modern back-end development.*
+
 ## [Typescript Design Patterns](../_posts/2019-12-02-TypeScript.md)
 *Basic syntax and features of Typescript.*
 
@@ -24,18 +27,7 @@ classes: wide
 ## [AWS Serverless APIs & Apps](../_posts/2019-10-03-awsServerless.md)
 *Serverless computing with API Gateway, AWS Lambda and more.*
 
-## AWS Certified Solutions Architect Associate 
-*Preparation for AWS Certified SAA Certification.*
-
 ## [MongoDB Makes Working With Data Simple](../_posts/2019-11-01-MongoDB.md)
 *MongoDB is built on a philosophy that prioritizes performance and efficiency.*
 
-## Python for Data Science and Machine Learning
-*Numpy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Leatning, Tensorflow and more.*
-
-## Machine Learning
-*Machine Learning Algorithms in Python and R.*
-
-## Deep Learning
-*Deep Learning Algorithms in Python.*
 

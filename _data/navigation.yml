@@ -10,8 +10,8 @@ main:
   - title: "Blog"
     url: /blog/   
 
-  - title: "Contact"
-    url: /contact/   
+  - title: "Data Science"
+    url: /datascience/   
   
   # - title: "Sample Collections"
   #   url: /collection-archive/
