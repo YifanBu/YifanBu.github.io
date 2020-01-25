@@ -34,7 +34,7 @@ classes: wide
 **Tech stack: UX, UI**
 >UI Interfaces designed for MyTask Mobile App
 
-<a href="../_posts/2019-09-01-mytask.md" class="btn btn--info" target="_blank">Demo</a>
+<a href="https://yifanbu.github.io/mytask/" class="btn btn--info" target="_blank">Demo</a>
 
 ## Immersive VR Reader
 **Tech Stack: Unity 3D, C# and Oculus**

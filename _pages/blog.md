@@ -18,16 +18,15 @@ classes: wide
 ## [Typescript Design Patterns](../_posts/2019-12-02-TypeScript.md)
 *Basic syntax and features of Typescript.*
 
-## [Git Source Control](../_posts/2019-09-05-git.md)
-*Basic Commands and workflow of Git*
-
-## [Linux Knowledge](../_posts/2019-11-05-Linux.md)
-*Linux Terminal, File System, Automation, Scheduling, Package Managers and more*
-
 ## [AWS Serverless APIs & Apps](../_posts/2019-10-03-awsServerless.md)
-*Serverless computing with API Gateway, AWS Lambda and more.*
+*Serverless Computing with API Gateway, AWS Lambda and More.*
 
 ## [MongoDB Makes Working With Data Simple](../_posts/2019-11-01-MongoDB.md)
 *MongoDB is built on a philosophy that prioritizes performance and efficiency.*
 
+## [Git Source Control](../_posts/2019-09-05-git.md)
+*Basic commands and workflow of Git.*
+
+## [Linux Knowledge](../_posts/2019-11-05-Linux.md)
+*Linux Terminal, File System, Automation, Scheduling, Package Managers and More.*
 
