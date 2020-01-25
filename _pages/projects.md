@@ -30,11 +30,11 @@ classes: wide
 
 <a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
 
-## MyTask UI Design
+## MyTask APP UI Design
 **Tech stack: UX, UI**
->UI Interfaces of MyTask App
+>UI Interfaces designed for MyTask Mobile App
 
-<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
+<a href="../_posts/2019-09-01-mytask.md" class="btn btn--info" target="_blank">Demo</a>
 
 ## Immersive VR Reader
 **Tech Stack: Unity 3D, C# and Oculus**
