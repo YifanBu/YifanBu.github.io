@@ -16,22 +16,22 @@ classes: wide
 **Tech Stack: HTML, Advanced CSS, SASS, Advanced Responsive Design, animations, background video**
 >Display information of a company that offers tours in the nature, which has nice animations and cool effects.
 
-<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
+<a href="https://github.com/YifanBu/Tour-Operator" class="btn btn--info" target="_blank">Repo</a>
 
 ## Food Ordering and Delivery Online System  
 **Tech Stack: HTML, CSS, JavaScript, and jQuery**
 >A website that contains information with simple navigation. Users can sign up on a subscription plan.
 
-<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
+<a href="https://github.com/YifanBu/Food-Delivery" class="btn btn--info" target="_blank">Repo</a>
 
 ## Recipe Finder
 **Tech Stack: HTML, CSS, asynchronous JavaScript, Node, AJAX and APIs**
 >Search over one million recipes by integrating a 3rd party API and add the recipe to a shopping list. 
 
-<a href="https://github.com/YifanBu/Feedback-Collector" class="btn btn--info" target="_blank">Repo</a>
+<a href="https://github.com/YifanBu/Recipe-Finder" class="btn btn--info" target="_blank">Repo</a>
 
 ## MyTask APP UI Design
-**Tech stack: UX, UI**
+**Tech stack: UX, UI Design**
 >UI Interfaces designed for MyTask Mobile App
 
 <a href="https://yifanbu.github.io/mytask/" class="btn btn--info" target="_blank">Demo</a>

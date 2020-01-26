@@ -9,7 +9,7 @@ header:
 
 Who I Am
 --------
-Currently a Software Engineer based in Melbourne, Australia. I have a passion for data science and love to create websites using React, Redux and Node. 
+Currently a Software Engineer based in Melbourne, Australia. I have a passion for web development and love to create web applications using React, Redux and Node. 
 
 Where I Graduated From
 ----------------------
