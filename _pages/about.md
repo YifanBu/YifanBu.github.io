@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: false
 layout: splash
 header:
-  image: "/images/road.jpg"
+  image: "/images/shanghai.jpg"
 ---
 
 Who I Am
