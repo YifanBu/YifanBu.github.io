@@ -27,7 +27,7 @@ I'm super passionate about working in great engineering teams, and building prod
 
 What I Also Like
 ----------------
-I am also interested in [building PCs](https://youtu.be/pK-xWLQXf1k), writing articles, and designing robots.
+I am also interested in [building PCs](https://youtu.be/pK-xWLQXf1k){:target="_blank"}, writing articles, and designing robots.
 
 How to Connect
 --------------
