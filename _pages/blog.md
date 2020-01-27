@@ -6,6 +6,9 @@ author_profile: true
 classes: wide
 ---
 
+## [Resources for Web Design and Development](../_posts/2019-10-03-resources.md)
+*Design, UX, HTML, CSS, Web Industry.*
+
 ## [How JavaScript Works Under the Hood](../_posts/2020-01-12-jsunderhood.md)
 *Scope, Closures, Prototypes, 'this', Framework and More.*
 
