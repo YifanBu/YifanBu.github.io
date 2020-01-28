@@ -14,6 +14,7 @@ toc_icon: "cog"
 Serverless Web hosting runs on-demand. It has unlimited capacity and scales automatically. The users can pay what they need. Code runs on managed AWS infrastructure which is up-to-date and secure.
 
 ## Core Serverless Services
+
 | For   | Function               | Service     |
 |-------|------------------------|-------------|
 | App   | Static App             | S3          |
