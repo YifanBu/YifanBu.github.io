@@ -9,15 +9,18 @@ header:
 
 Who I Am
 --------
-Currently a Software Engineer based in Melbourne, Australia. I have a passion for web development and love to create web applications using React, Redux and Node. 
+Currently a Software Engineer based in Melbourne, Australia. I have a passion for web development and love to create web applications to solve real world problems using React, Redux and Node. 
 
 Where I Graduated From
 ----------------------
-University of Melbourne (2017-2019)
->**Master of Information Technology**
 
-Beihang University (2012-2016)
->**Bachelor of Automation Engineer**  
+**Master of Information Technology**   
+
+>University of Melbourne (2017-2019)
+
+**Bachelor of Automation Engineer**
+
+>Beihang University (2012-2016)
 
 Why Work With Me
 ----------------
@@ -27,7 +30,7 @@ I'm super passionate about working in great engineering teams, and building prod
 
 What I Also Like
 ----------------
-I am also interested in [building PCs](https://youtu.be/pK-xWLQXf1k){:target="_blank"}, [climbing mountains](https://youtu.be/kbAjOw4U8qQ), writing articles, and designing robots.
+I am also interested in [building PCs](https://youtu.be/pK-xWLQXf1k){:target="_blank"}, [hiking](https://youtu.be/kbAjOw4U8qQ), writing articles, and designing robots.
 
 How to Connect
 --------------
