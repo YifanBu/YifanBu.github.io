@@ -7,6 +7,7 @@ classes: wide
 ---
 
 ## [Learn Google Analytics](../_posts/2020-01-10-gganal.md)
+*The Easiest Way to Learn How to Use Google Analytics*
 
 ## AWS Certified Solutions Architect Associate 
 *Preparation for AWS Certified SAA Certification.*
