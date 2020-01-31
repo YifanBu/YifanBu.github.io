@@ -12,12 +12,6 @@ classes: wide
 ## [What's New in ECMAScript 6](../_posts/2019-09-10-es6.md)
 *Async, Class, Module, Array Function and More.*
 
-## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
-*Some of the Most Common Coding Interview Questions.*
-
-## [Front-End: Modern React with Redux](../_posts/2019-10-06-react.md)
-*Dive into React.js and Redux.*
-
 ## [HTML Cheat Sheet](../_posts/2020-01-20-htmlcs.md)
 *Basics, Tips, Tricks, Best Practices and Code Snippets*
 
@@ -26,6 +20,18 @@ classes: wide
 
 ## [DOM Manipulation and Events](../_posts/2019-09-10-dom.md)
 *DOM Access, DOM Manipulation, Events and Event Handling*
+
+## [JavaScript Higher Order Functions & Arrays](../_posts/2019-09-12-jsf.md)
+*call, apply, bind, forEach, map, filter, reduce and sort*
+
+## [Asynchronous JavaScript: Promises, Async/Await and AJAX](../_posts/2019-09-16-asyjs.md)
+*Promises, Async/Await and AJAX*
+
+## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
+*Some of the Most Common Coding Interview Questions.*
+
+## [Front-End: Modern React with Redux](../_posts/2019-10-06-react.md)
+*Dive into React.js and Redux.*
 
 ## [Resources for Web Design and Development](../_posts/2019-10-03-resources.md)
 *Design, UX, HTML, CSS, Web Industry.*

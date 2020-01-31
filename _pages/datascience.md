@@ -5,6 +5,9 @@ title: ""
 author_profile: true
 classes: wide
 ---
+
+## [Learn Google Analytics](../_posts/2020-01-10-gganal.md)
+
 ## AWS Certified Solutions Architect Associate 
 *Preparation for AWS Certified SAA Certification.*
 
