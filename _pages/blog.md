@@ -9,7 +9,7 @@ classes: wide
 ## [How JavaScript Works Under the Hood](../_posts/2020-01-12-jsunderhood.md)
 *Scope, Closures, Prototypes, 'this', Framework and More.*
 
-## [What's New in ECMAScript 6](../_posts/2029-09-10-es6.md)
+## [What's New in ECMAScript 6](../_posts/2019-09-10-es6.md)
 *Async, Class, Module, Array Function and More.*
 
 ## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
@@ -23,6 +23,9 @@ classes: wide
 
 ## [CSS Cheat Sheet](../_posts/2020-01-30-csscs.md)
 *Basics, Tips, Tricks, Best Practices and Code Snippets*
+
+## [DOM Manipulation and Events](../_posts/2019-09-10-dom.md)
+*DOM Access, DOM Manipulation, Events and Event Handling*
 
 ## [Resources for Web Design and Development](../_posts/2019-10-03-resources.md)
 *Design, UX, HTML, CSS, Web Industry.*
