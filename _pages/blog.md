@@ -22,10 +22,10 @@ classes: wide
 *DOM Access, DOM Manipulation, Events and Event Handling*
 
 ## [JavaScript Higher Order Functions & Arrays](../_posts/2019-09-12-jsf.md)
-*call, apply, bind, forEach, map, filter, reduce and sort*
+*forEach, map, filter, reduce, sort, call, apply, bind and more*
 
-## [Asynchronous JavaScript: Promises, Async/Await and AJAX](../_posts/2019-09-16-asyjs.md)
-*Promises, Async/Await and AJAX*
+## [Asynchronous JavaScript: Promises, Async/Await, AJAX and Fetch API](../_posts/2019-09-16-asyjs.md)
+*Promises, Async/Await, AJAX, Fetch API and More*
 
 ## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
 *Some of the Most Common Coding Interview Questions.*
