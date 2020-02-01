@@ -10,11 +10,11 @@ main:
   - title: "Blog"
     url: /blog/   
 
+  - title: "UI/UX"
+    url: /uiux/
+
   - title: "Data Science"
     url: /datascience/   
-  
-  - title: "Mini Projects"
-    url: /miniprojects/   
   
   # - title: "Sample Collections"
   #   url: /collection-archive/

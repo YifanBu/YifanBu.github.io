@@ -30,12 +30,6 @@ classes: wide
 
 <a href="https://github.com/YifanBu/Recipe-Finder" class="btn btn--info" target="_blank">Repo</a>
 
-## Immersive VR Reader
-**Tech Stack: Unity 3D, C# and Oculus**
->A book reader designed specifically for the world of Virtual Reality.
-
-<a href="https://youtu.be/XDZK9TErmBA" class="btn btn--info" target="_blank">Video</a>
-
 ## Multi-threaded Dictionary Server
 **Tech Stack: Java, JSON, Web Sockets, and Threads**
 >Using a client-server architecture, design and implement a multi-threaded server that allows concurrent clients to search the meanings of a word, add a word, and remove an existing word.
