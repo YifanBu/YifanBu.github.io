@@ -6,14 +6,14 @@ author_profile: true
 classes: wide
 ---
 
-## MyTask APP UI Design
+## Mobile UI Design for MyTask APP
 **Tech stack: UI/UX Design**
->UI Interfaces designed for MyTask Mobile App
+>User Interfaces designed for MyTask Mobile Application.
 
 <a href="https://yifanbu.github.io/mytask/" class="btn btn--info" target="_blank">Demo</a>
 
 ## Immersive VR Reader
-**Tech Stack: Unity 3D, C# and Oculus**
+**Tech Stack: UI/UX Design, Unity 3D, C# and Oculus**
 >A book reader designed specifically for the world of Virtual Reality.
 
 <a href="https://youtu.be/XDZK9TErmBA" class="btn btn--info" target="_blank">Video</a>
