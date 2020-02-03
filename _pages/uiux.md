@@ -24,8 +24,8 @@ classes: wide
 
 <a href="https://github.com/YifanBu/Budget-Recorder" class="btn btn--info" target="_blank">Repo</a>
 
-## Todo APP
+## Todo List APP
 **Tech Stack: React**
->A handy todo app built with React.
+>A handy todo list application built with React.
 
 <a href="https://github.com/YifanBu/TodoApp" class="btn btn--info" target="_blank">Repo</a>
