@@ -28,4 +28,4 @@ classes: wide
 **Tech Stack: React**
 >A handy todo list application built with React.
 
-<a href="https://github.com/YifanBu/TodoApp" class="btn btn--info" target="_blank">Repo</a>
+<a href="https://github.com/YifanBu/todo-list" class="btn btn--info" target="_blank">Repo</a>
