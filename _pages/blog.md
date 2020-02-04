@@ -6,6 +6,9 @@ author_profile: true
 classes: wide
 ---
 
+## [Front-End: Modern React with Redux](../_posts/2019-10-06-react.md)
+*Fundamentals and Features of React.js and Redux.*
+
 ## [How JavaScript Works Under the Hood](../_posts/2020-01-12-jsunderhood.md)
 *Scope, Closures, Prototypes, 'this', Framework and More.*
 
@@ -29,9 +32,6 @@ classes: wide
 
 ## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
 *Some of the Most Common Coding Interview Questions.*
-
-## [Front-End: Modern React with Redux](../_posts/2019-10-06-react.md)
-*Dive into React.js and Redux.*
 
 ## [Resources for Web Design and Development](../_posts/2019-10-03-resources.md)
 *Design, UX, HTML, CSS, Web Industry.*
