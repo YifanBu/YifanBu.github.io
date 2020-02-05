@@ -15,6 +15,12 @@ classes: wide
 ## [What's New in ECMAScript 6](../_posts/2019-09-10-es6.md)
 *Async, Class, Module, Array Function and More.*
 
+## [JavaScript Higher Order Functions & Arrays](../_posts/2019-09-12-jsf.md)
+*forEach, map, filter, reduce, sort, call, apply, bind and more*
+
+## [Asynchronous JavaScript: Promises, Async/Await, AJAX and Fetch API](../_posts/2019-09-16-asyjs.md)
+*Promises, Async/Await, AJAX, Fetch API and More*
+
 ## [HTML Cheat Sheet](../_posts/2020-01-20-htmlcs.md)
 *Basics, Tips, Tricks, Best Practices and Code Snippets*
 
@@ -24,11 +30,8 @@ classes: wide
 ## [DOM Manipulation and Events](../_posts/2019-09-10-dom.md)
 *DOM Access, DOM Manipulation, Events and Event Handling*
 
-## [JavaScript Higher Order Functions & Arrays](../_posts/2019-09-12-jsf.md)
-*forEach, map, filter, reduce, sort, call, apply, bind and more*
-
-## [Asynchronous JavaScript: Promises, Async/Await, AJAX and Fetch API](../_posts/2019-09-16-asyjs.md)
-*Promises, Async/Await, AJAX, Fetch API and More*
+## [Mobile Development: React Native](../_posts/2019-02-01-reactnative.md)
+*Fundamentals and Features of React Native.*
 
 ## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
 *Some of the Most Common Coding Interview Questions.*
