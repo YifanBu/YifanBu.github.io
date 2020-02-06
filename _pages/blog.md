@@ -30,9 +30,6 @@ classes: wide
 ## [DOM Manipulation and Events](../_posts/2019-09-10-dom.md)
 *DOM Access, DOM Manipulation, Events and Event Handling*
 
-## [Mobile Development: React Native](../_posts/2019-02-01-reactnative.md)
-*Fundamentals and Features of React Native.*
-
 ## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
 *Some of the Most Common Coding Interview Questions.*
 
