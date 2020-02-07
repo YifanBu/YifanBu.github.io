@@ -3,17 +3,22 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Blog"
-    url: /blog/   
+  - title: "Project"
+    url: /project/
 
-  - title: "Projects"
-    url: /projects/
-
-  - title: "UI/UX"
-    url: /uiux/
+  - title: "Web Development"
+    url: /webdev/   
 
   - title: "Data Science"
-    url: /datascience/   
+    url: /datascience/  
+
+  - title: "DevOps"
+    url: /devOps/
+
+  - title: "Others"
+    url: /others/
+
+
   
   # - title: "Sample Collections"
   #   url: /collection-archive/

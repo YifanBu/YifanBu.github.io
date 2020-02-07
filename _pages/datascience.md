@@ -9,6 +9,12 @@ classes: wide
 ## [A Guide to Google Analytics](../_posts/2020-01-10-gganal.md)
 *The Easiest Way to Learn How to Use Google Analytics*
 
+## [MongoDB Makes Working With Data Simple](../_posts/2019-11-01-MongoDB.md)
+*MongoDB Development for Web & Mobile Apps.*
+
+## [SQL Basic Operations](../_posts/2020-02-07-SQL.md)
+*Storing, Manipulating and Retrieving data in databases.*
+
 ## AWS Certified Solutions Architect Associate 
 *Preparation for AWS Certified SAA Certification.*
 
