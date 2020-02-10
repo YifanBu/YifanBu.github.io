@@ -21,6 +21,9 @@ classes: wide
 ## [Asynchronous JavaScript: Promises, Async/Await, AJAX and Fetch API](../_posts/2019-09-16-asyjs.md)
 *Promises, Async/Await, AJAX, Fetch API and More*
 
+## [Typescript Design Patterns](../_posts/2019-12-02-TypeScript.md)
+*Basic Syntax and Features of TypeScript.*
+
 ## [HTML Cheat Sheet](../_posts/2020-01-20-htmlcs.md)
 *Basics, Tips, Tricks, Best Practices and Code Snippets*
 
@@ -39,7 +42,5 @@ classes: wide
 ## [Back-End: Node.js, Express, and RESTful API](../_posts/2020-01-25-node.md)
 *Node.js and Modern Back-End Development.*
 
-## [Typescript Design Patterns](../_posts/2019-12-02-TypeScript.md)
-*Basic Syntax and Features of TypeScript.*
 
 
