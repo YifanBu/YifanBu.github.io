@@ -9,14 +9,15 @@ main:
   - title: "Web Development"
     url: /webdev/   
 
+  - title: "Design"
+    url: /design/
+
   - title: "Data Science"
     url: /datascience/  
 
   - title: "DevOps"
     url: /devops/
 
-  - title: "Others"
-    url: /others/
 
 
   

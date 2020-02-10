@@ -15,6 +15,9 @@ classes: wide
 ## [SQL Basic Operations](../_posts/2020-02-07-SQL.md)
 *Storing, Manipulating and Retrieving data in databases.*
 
+## [Python Programming Basics](../_posts/2020-02-08-pythonbasic.md)
+*Variables, Data Types, Structures, Functions, Loops, Classes and More*
+
 ## AWS Certified Solutions Architect Associate 
 *Preparation for AWS Certified SAA Certification.*
 

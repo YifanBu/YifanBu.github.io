@@ -9,7 +9,13 @@ header:
 
 Who I Am
 --------
-Currently a Software Engineer based in Melbourne, Australia. I have a passion for web development and love to create web applications to solve real world problems using React, Redux and Node. 
+Self-driven Software Engineer based in Melbourne, Australia. I have a passion for web development and love to create web applications to solve real world problems.
+
+Why Work With Me
+----------------
+There's nothing I enjoy more than designing and developing good applications that can run across devices using the latest technologies available.
+
+I'm super passionate about working in great engineering teams, and building products that solve real problems. 
 
 Where I Graduated From
 ----------------------
@@ -21,12 +27,6 @@ Where I Graduated From
 **Bachelor of Automation Engineer**
 
 >Beihang University (2012-2016)
-
-Why Work With Me
-----------------
-There's nothing I enjoy more than designing and developing good websites that can run across devices using the latest technologies available.
-
-I'm super passionate about working in great engineering teams, and building products that solve real problems. 
 
 What I Also Like
 ----------------

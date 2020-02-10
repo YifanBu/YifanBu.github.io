@@ -15,5 +15,8 @@ classes: wide
 ## [Linux Knowledge](../_posts/2019-11-05-Linux.md)
 *Linux Terminal, File System, Automation, Scheduling, Package Managers and More.*
 
+## [Exploring Docker](../_posts/2020-02-10-docker.md)
+*Container, Dockerfile, Docker-compose, Digital Ocean Droplet*
+
 ## [AWS Serverless APIs & Apps](../_posts/2019-10-03-awsServerless.md)
 *Serverless Computing with API Gateway, AWS Lambda and More.*
