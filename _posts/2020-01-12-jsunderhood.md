@@ -11,10 +11,10 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-## Foreword
+# Foreword
 No programming language is perfect. The weird parts of JS are it’s most powerful and beautiful parts. Big words just vocabularies, which are not as complicated as sound.
 
-## Execution Contexts and Lexical Environments
+# Execution Contexts and Lexical Environments
 *syntax parser*: a program that reads the code and determines what it does and if its grammar is valid.
 
 *execution context*: a wrapper that helps manage the code which is running.
@@ -48,12 +48,12 @@ When the variables and functions lexically not sitting inside a function, they a
 
 *Event Queue*: full of events, notifications of events that might be happening.	The event queue won't be processed until the execution stack is empty. When the execution stack is empty, the JS periodically looks at the event queue and deals with the events one by one. 
 
-## Types and Operators
+# Types and Operators
 *Dynamic Typing*: JS engine figures out the type of data a variable holds while your code is still running.
 
 *Primitive Type*: a type of data that represents a single value.
 
-### 6 Primitive Types:  
+## 6 Primitive Types:  
 *undefined , null*: both represents lack of existence, leave ‘undefined’ for the engine and you can use ‘null’ when you want to set a variable to nothing. 
 
 *boolean*: true, false
@@ -73,7 +73,7 @@ For example: assignment ‘=’ is right associative.
 
 *coercion*: converting a value from one type to another. This happens quite often in JS because JS is dynamically typed.
 
-## Objects and Functions
+# Objects and Functions
 *Object*: name-value pairs sitting in memory. They can contain other name-value pairs, which are other objects.
 
 2 ways to access properties and methods of an object:
@@ -92,7 +92,7 @@ When the JS engine sees "{}", it knows you are creating an object.
 initialize the object by setting up the properties and methods all within the curly braces.
 (the properties and methods are essentially treated as one line of code.)
 
-### JSON:
+## JSON:
 JSON (JavaScript Object Notation): makes it easier to push data from the client to the server.
 
 JSON is inspired by the JS literal syntax but they are different. JSON is technically a subset of the object literal syntax. In JSON, properties have to be wrapped in quotes.
@@ -102,7 +102,7 @@ JSON.stringify();		// convert string to JSON
 JSON.parse();		// convert JSON to string
 ```
 
-### Functions are Objects:
+## Functions are Objects:
 
 *First Class Functions*: Everything you can do with other types (objects, strings, numbers, booleans), you can do with functions. You can assign a function to variables, pass it around as parameters to other functions, create it on the fly.
 
@@ -118,7 +118,7 @@ greet.language = 'english';
 
 The *NAME* property is 'greet'. The *CODE* property is 'console.log('hi');'.
 
-### Function Statements & Function Expressions
+## Function Statements & Function Expressions
 
 *Expression*: A unit of code that results in a value. It does not have to save to a variable.
 
@@ -140,13 +140,13 @@ var anonymousGreet = function() {
 anonymousGreet();
 ```
 
-### By Value & By Reference
+## By Value & By Reference
 
 *By Value*: setting one value to another **primitive** by copying the value into **two separate spots in memory**.
 
 *By Reference*: all **objects** interact by reference, pointing to the **same spot in memory**.
 
-### 'this'
+## 'this'
 
 When a function is invoked, a new execution context is created and put on the execution stack. 
 
@@ -250,7 +250,7 @@ c.log();
 // Object {name: "Updated again! The c object", log: function}
 ```
 
-### Array: Collection of Anything
+## Array: Collection of Anything
 
 ```javascript
 var arr = [];
@@ -258,9 +258,9 @@ var arr = [];
 for (var i = 0; i < 3; i++) {
   
 }
-````
+```
 
-### Immediately Invoked Function Expressions
+## Immediately Invoked Function Expressions
 
 ```javascript
 var greeting = function(name) {
@@ -290,7 +290,7 @@ var greeting = 'Hola';
 }('John')); // IIFE
 ```
 
-### Closures
+## Closures
 
 Invoke a function that returns a function:
 
@@ -365,7 +365,7 @@ fs[1](); // 1
 fs[2](); // 2
 ```
 
-### Callbacks
+## Callbacks
 
 ```javascript
 function sayHiLater() {
@@ -384,35 +384,35 @@ sayHiLater();
 
 *Callback Function*: A function that you give to another function, to be run when the other function is finished.
 
-### call(), apply(), and bind()
+## call(), apply(), and bind()
 
 
 
-## Object-Oriented JS and Prototypal Inheritance
+# Object-Oriented JS and Prototypal Inheritance
 
-### Classical vs Prototypal Inheritance
+## Classical vs Prototypal Inheritance
 
 *Inheritance*: one object gets access to the properties and methods of another object.
 
 Prototypal Inheritance is much simpler than the Classical one.
 
-### Prototype
+## Prototype
 
 All objects including functions in JS have a *prototype property*, which is simply a reference to another object called *proto{}*.
 
 The scope chain is about looking for where we have access to a variable. However, the **prototype chain** is about where we have access to a property or method amongst a sequence of objects that are connected via this prototype property. The JS engine will search the prototype chain for the properties and methods.
 
-### Everything is an Object or a Primitive
+## Everything is an Object or a Primitive
 
 
 
-### Reflection and Extend
+## Reflection and Extend
 
 *Reflection*: An object can look at itself, listening and changing its properties and methods.
 
-## Building Objects
+# Building Objects
 
-### Function Constructors and 'new'
+## Function Constructors and 'new'
 
 ```javascript
 function Person() {
@@ -449,7 +449,7 @@ var jane = new Person('Jane', 'Doe');
 console.log(jane); // Person {firstname: "Jane", lastname: "Doe"}
 ```
 
-### Function Constructors and '.prototype'
+## Function Constructors and '.prototype'
 
 ```javascript
 function Person(firstname, lastname) {
@@ -480,11 +480,11 @@ Person.prototype.getFormalFullName = function() {
 
 Good code: Properties are set up inside the function constructor because they are often different values. But methods are sitting on the prototype. Because functions are objects and they take up memory space if they are put in the function constructors. 
 
-### 'new' and functions
+## 'new' and functions
 
-### Built-in Function Constructors
+## Built-in Function Constructors
 
-### ES6 and Classes
+## ES6 and Classes
 
 In other languages, class is not an object. It is just a definition, like a template. In JavaScript, class is an object. We creates new objects from that object.
 
@@ -520,6 +520,6 @@ class InformalPerson extends Person {
 
 ```
 
-## Odds and Ends
+# Odds and Ends
 
-## jQuery
+# jQuery
