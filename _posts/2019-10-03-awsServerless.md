@@ -10,10 +10,10 @@ toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: "cog"
 ---
-## Why Serverless
+# Why Serverless
 Serverless Web hosting runs on-demand. It has unlimited capacity and scales automatically. The users can pay what they need. Code runs on managed AWS infrastructure which is up-to-date and secure.
 
-## Core Serverless Services
+# Core Serverless Services
 
 | For   | Function               | Service     |
 |-------|------------------------|-------------|
@@ -25,12 +25,12 @@ Serverless Web hosting runs on-demand. It has unlimited capacity and scales auto
 | DNS   | Translate URL          | Route 53    |
 | Cache | Improve Performance    | Cloudfront  |
 
-## Creating an API with API Gateway & AWS Lambda
+# Creating an API with API Gateway & AWS Lambda
 
-## Data Storage with DynamoDB
+# Data Storage with DynamoDB
 
-## Authentication with Cognito
+# Authentication with Cognito
 
-## Content Delivery & Hosting with S3, CloudFront and Route53
+# Content Delivery & Hosting with S3, CloudFront and Route53
 
-## An Outlook
+# An Outlook

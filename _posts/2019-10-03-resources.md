@@ -11,8 +11,8 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-## 1. Web Design Basics
-### 1.1 Intro to Web Design
+# 1. Web Design Basics
+## 1.1 Intro to Web Design
 Design course in form of articles:
 
 https://hackdesign.org/lessons
@@ -22,7 +22,7 @@ Learn more about flat design:
 http://www.webdesignerdepot.com/2013/12/infographic-­flat­‐design­‐vs­‐
 skeuomorphism/
 
-### 1.2 Typography
+## 1.2 Typography
 Google fonts: tons of free, easy to use webfonts:
 
 https://www.google.com/fonts
@@ -48,7 +48,7 @@ http://practicaltypography.com/typography‐in­‐ten­‐minutes.html
 Learn even more about typography:
 http://www.typogui.de/
 
-### 1.3 Colors
+## 1.3 Colors
 Cool Flat UI colors:
 
 http://flatuicolors.com/
@@ -81,7 +81,7 @@ Learn even more about colors:
 
 http://webdesign.tutsplus.com/articles/an­‐introduction‐to­‐color­‐theory­‐for‐web‐designers-­­‐webdesign­‐1437
 
-### 1.4 Working with Images
+## 1.4 Working with Images
 Basically all free images in one place:
 
 http://thestocks.im/
@@ -118,7 +118,7 @@ Techniques for working with images in CSS:
 
 http://css-­‐tricks.com/design-­considerations­‐text­‐images/
 
-### 1.5 Working with Icons
+## 1.5 Working with Icons
 
 Beautiful icon font:
 
@@ -140,7 +140,7 @@ Yet another icon font:
 
 http://icon­‐works.com/
 
-## 2. Dive into HTML
+# 2. Dive into HTML
 The best text editor for front-end web development in the world:
 
 http://brackets.io/
@@ -153,7 +153,7 @@ HTML special characters
 
 https://css‐tricks.com/snippets/html/glyphs/
 
-## 3. Formatting with CSS
+# 3. Formatting with CSS
 Complete CSS reference (this is really good):
 
 http://tympanus.net/codrops/css_reference/
@@ -167,7 +167,7 @@ Cool things you can do with Google Chrome Developer Tools:
 
 http://www.labnol.org/sokware/chrome­‐dev­‐tools­‐tutorial/28131/
 
-## 4. Keeping Up with Web Industry
+# 4. Keeping Up with Web Industry
 Treehouse show, weekly video about new things in webdesign and development:
 
 http://teamtreehouse.com/library/the-­treehouse‐show
