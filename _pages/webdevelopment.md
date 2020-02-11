@@ -6,8 +6,14 @@ author_profile: true
 classes: wide
 ---
 
-## [Front-End: Modern React with Redux](../_posts/2019-10-06-react.md)
-*Fundamentals and Features of React.js and Redux.*
+## [Front-End Framework: React](../_posts/2019-10-06-react.md)
+*Fundamentals and Features of React.js*
+
+## [State Management: Redux](../_posts/2020-01-25-redux.md)
+*Fundamentals and Features of Redux.*
+
+## [Mobile Development: React Native](../_posts/2020-01-26-reactnative.md)
+*Fundamentals and Features of React Native.*
 
 ## [How JavaScript Works Under the Hood](../_posts/2020-01-12-jsunderhood.md)
 *Scope, Closures, Prototypes, 'this', Framework and More.*
@@ -30,7 +36,7 @@ classes: wide
 ## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
 *Some of the Most Common Coding Interview Questions.*
 
-## Building a GraphQL Server
+## [Building a GraphQL Server]
 
 ## [Back-End: Node.js, Express, and RESTful API](../_posts/2020-01-25-node.md)
 *Node.js and Modern Back-End Development.*
