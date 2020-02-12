@@ -18,6 +18,7 @@ classes: wide
 ## [Python Programming Basics](../_posts/2020-02-08-pythonbasic.md)
 *Variables, Data Types, Structures, Functions, Loops, Classes and More*
 
+<!--
 ## AWS Certified Solutions Architect Associate 
 *Preparation for AWS Certified SAA Certification.*
 
@@ -29,4 +30,7 @@ classes: wide
 
 ## Deep Learning
 *Deep Learning Algorithms in Python.*
+
+-->
+
 
