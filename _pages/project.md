@@ -1,7 +1,9 @@
 ---
-layout: archive
+layout: collection #archive
 permalink: /project/
 title: ""
+collection: portfolio
+entries-layout: grid
 author_profile: true
 classes: wide
 ---

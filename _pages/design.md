@@ -18,6 +18,8 @@ classes: wide
 ## [CSS Cheat Sheet](../_posts/2020-01-30-csscs.md)
 *Basics, Tips, Tricks, Best Practices and Code Snippets*
 
+## [A Powerful Weapon: Semantic UI]
+
 ## [Resources for Web Design and Development](../_posts/2019-10-03-resources.md)
 *Design, UX, HTML, CSS, Web Industry.*
 
