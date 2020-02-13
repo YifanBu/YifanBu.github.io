@@ -3,8 +3,8 @@ main:
   #- title: "About"
   #  url: /about/
 
-  - title: "Project"
-    url: /project/
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "Web Development"
     url: /webdev/   

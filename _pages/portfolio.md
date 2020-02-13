@@ -1,6 +1,6 @@
 ---
 layout: archive #collection
-permalink: /project/
+permalink: /portfolio/
 title: ""
 #collection: portfolio
 #entries-layout: grid
