@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: ""
 author_profile: true
 header:
   image: "/images/melcity.jpg"
