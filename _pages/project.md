@@ -1,9 +1,9 @@
 ---
-layout: collection #archive
+layout: archive #collection
 permalink: /project/
 title: ""
-collection: portfolio
-entries-layout: grid
+#collection: portfolio
+#entries-layout: grid
 author_profile: true
 classes: wide
 ---
