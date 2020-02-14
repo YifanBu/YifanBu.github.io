@@ -6,14 +6,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Data Science"
+    url: /datascience/ 
+
   - title: "Web Development"
     url: /webdev/   
 
   - title: "Design"
     url: /design/
-
-  - title: "Data Science"
-    url: /datascience/  
 
   - title: "DevOps"
     url: /devops/
