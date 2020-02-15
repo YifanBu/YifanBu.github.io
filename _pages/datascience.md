@@ -9,6 +9,8 @@ classes: wide
 ## [A Guide to Google Analytics](../_posts/2020-01-10-gganal.md)
 *The Easiest Way to Learn How to Use Google Analytics*
 
+## [Become Google Analytics Certified](../_posts/2020-02-15-gacertified.md)
+
 ## [MongoDB Makes Working With Data Simple](../_posts/2019-11-01-MongoDB.md)
 *MongoDB Development for Web & Mobile Apps.*
 
