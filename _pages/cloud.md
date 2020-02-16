@@ -1,10 +1,13 @@
 ---
 layout: archive
-permalink: /devops/
+permalink: /cloud/
 title: ""
 author_profile: true
 classes: wide
 ---
+
+## [AWS Certified Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 
+*Preparation for AWS Certified SAA Certification.*
 
 ## [Agile Methodology](../_posts/2020-02-06-agile.md)
 *The Art of Iterative and Incremental Software Development*
@@ -21,7 +24,6 @@ classes: wide
 ## [AWS Serverless APIs & Apps](../_posts/2019-10-03-awsServerless.md)
 *Serverless Computing with API Gateway, AWS Lambda and More.*
 
-## [TDD: Test-Driven Development]
+## [TDD: Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 
-
-## [Application Deployment Methods]
+## [Application Deployment Methods](https://www.datamation.com/applications/application-deployment-best-practices.html)

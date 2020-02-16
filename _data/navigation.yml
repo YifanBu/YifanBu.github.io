@@ -7,20 +7,15 @@ main:
     url: /portfolio/
 
   - title: "Data Science"
-    url: /datascience/ 
+    url: /ds/ 
 
   - title: "Web Development"
     url: /webdev/   
 
-  - title: "Design"
-    url: /design/
-
-  - title: "DevOps"
-    url: /devops/
+  - title: "Cloud"
+    url: /cloud/
 
 
-
-  
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

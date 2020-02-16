@@ -8,6 +8,16 @@ author_profile: true
 classes: wide
 ---
 
+# Immersive VR Reader
+>A book reader designed with Unity 3D and C# specifically for Virtual Reality.
+
+<a href="https://youtu.be/XDZK9TErmBA" class="btn btn--info" target="_blank">Demo</a>
+
+# Mobile UI Design for MyTask APP
+>User Interfaces designed for MyTask Mobile Application.
+
+<a href="../_posts/2019-09-01-mytask.md" class="btn btn--info" target="_blank">Demo</a>
+
 # Customers Feedback Collector
 **Tech Stack: React, Redux, Express, MongoDB, PassportJS, Google OAuth, Stripe, API key handling**
 >Allow a startup owner or a product manager to send email messages to a bunch of different users to collect some amount of feedback.
@@ -33,13 +43,11 @@ classes: wide
 <a href="https://github.com/YifanBu/Recipe-Finder" class="btn btn--info" target="_blank">Repo</a>
 
 # Budget Recorder
-**Tech Stack: HTML5, CSS3, JavaScript**
 >A handy tool for recording budget.
 
 <a href="https://github.com/YifanBu/Budget-Recorder" class="btn btn--info" target="_blank">Repo</a>
 
 # Todo List APP
-**Tech Stack: React**
 >A handy todo list application built with React.
 
 <a href="https://github.com/YifanBu/todo-list" class="btn btn--info" target="_blank">Repo</a>
