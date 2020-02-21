@@ -1,7 +1,7 @@
 ---
-title: "Become Google Analytics Certified"
+title: "Google Analytics Basic and Advanced Knowledge"
 date: 2020-02-15
-tags: [Google Analytics, analysis tool]
+tags: [Google Analytics]
 header:
 image:
 excerpt: "Web, Data Science"
