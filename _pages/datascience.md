@@ -6,6 +6,8 @@ author_profile: true
 classes: wide
 ---
 
+## [Start My Journey to Kaggle](../_posts/2020-02-22-kaggle-guide.md)
+
 ## [Google Tag Manager with Google Analytics](../_posts/2020-02-16-gtm.md)
 *Various Features of GTM and How to Implement Tags*
 
