@@ -1,5 +1,5 @@
 ---
-title: "Start My Journey to Kaggle"
+title: "My Journey to Kaggle"
 date: 2020-02-22
 tags: [Machine Learning, Data Science, Kaggle]
 header:
@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 # Foreword
 
-After studying the basis of data science, I think Kaggle is the right place for me to sharpen my machine learning and data science skills. Kaggle offers me the opportunity to learn from brilliant and more experienced data scientists from all over the world. 
+After studying the basis of data science, I think Kaggle is the right place for me to sharpen my machine learning and data science skills. With Kaggle, the hardest part has already been done for you: collecting, cleaning, and defining the problem to be solved with that data. Moreover, Kaggle also offers me the opportunity to learn from brilliant and more experienced data scientists from all over the world. 
 
 It is always a good idea to have a solid basis first. Consistent practice is the only way to improve and enhance your data science skills - the best way to become better at data sciences is by doing it as often as you can. Consistent practice means your aim is learning and not to focus all your attention on winning.
 
