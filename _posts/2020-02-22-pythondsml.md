@@ -177,7 +177,25 @@ NumPy is a Linear Algebra Library for Python.
 
 ### NumPy Arrays
 
+### NumPy Indexing and Selection
 
+NumPy arrays differ from a normal Python list because of their ability to **broadcast**:
+
+```python
+arr = np.arange(0,11) #array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10])
+
+arr[0:5]=100 #array([100, 100, 100, 100, 100,   5,   6,   7,   8,   9,  10])
+```
+
+Indexing a 2D array(matrices):
+
+```python
+
+```
+
+Fancy Indexing:
+
+Fancy indexing allows you to select entire rows or columns out of order,to show this, let's quickly build out a numpy array:
 
 ## Pandas
 

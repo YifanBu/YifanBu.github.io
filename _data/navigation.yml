@@ -9,11 +9,12 @@ main:
   - title: "Data Analytics"
     url: /ds/ 
 
+  - title: "Cloud DevOps"
+    url: /cloud/
+
   - title: "Web Development"
     url: /webdev/   
 
-  - title: "Cloud DevOps"
-    url: /cloud/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
