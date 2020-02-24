@@ -197,6 +197,12 @@ Fancy Indexing:
 
 Fancy indexing allows you to select entire rows or columns out of order,to show this, let's quickly build out a numpy array:
 
+### NumPy Operations
+
+Universal Array Functions
+
+
+
 ## Pandas
 
 Pandas is an open source library that built on top of NumPy.
@@ -211,7 +217,7 @@ Pandas is an open source library that built on top of NumPy.
 
 ### Series
 
-
+A Series is very similar to a NumPy array (in fact it is built on top of the NumPy array object). 
 
 ### DataFrames
 
