@@ -219,7 +219,24 @@ Pandas is an open source library that built on top of NumPy.
 
 A Series is very similar to a NumPy array (in fact it is built on top of the NumPy array object). 
 
+What differentiates the NumPy array from a Series:
+
+- a Series can have axis labels, meaning it can be indexed by a label, instead of just a number location. 
+- It also doesn't need to hold numeric data, it can hold any arbitrary Python Object.
+
+The key to using a Series is understanding its **index**. Pandas makes use of these index names or numbers by allowing for fast look ups of information (works like a hash table or dictionary).
+
 ### DataFrames
+
+DataFrames are the workhorse of pandas. We can think of a DataFrame as a bunch of Series objects put together to share the same index.
+
+```python
+from numpy.random import randn
+
+df = pd.DataFrame(randn(5,4), index='A B C D E'.split(), columns='W X Y Z'.split())
+```
+
+#### Selection and Indexing
 
 
 
