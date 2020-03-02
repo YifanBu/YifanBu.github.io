@@ -11,7 +11,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-## Sample(n) vs Population(N)
+# Sample(n) vs Population(N)
 
 - *Population*: a collection of all items of interest
 - *Sample*: a subset of the population (much easier to gather)
@@ -19,22 +19,28 @@ toc_icon: "cog"
 - Randomness
 - Representativeness
 
-## Descriptive Statistics
+# Descriptive Statistics
 
-### Data Types
+## Data Types
 
 1. Categorical
 2. Numerical: discrete & continuous
 
-### Measurement Levels
+## Measurement Levels
 
 1. Qualitative: nominal & ordinal
 2. Quantitative: interval & ratio
 
 # Central Tendency, Asymmetry, and Variability
 
+
+
 # Distributions
 
 # Estimator and Estimates
 
 # Confidence Intervals
+
+# Hypothesis Testing
+
+# Regression Analysis

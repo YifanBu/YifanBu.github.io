@@ -11,8 +11,133 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+# Intro
+
 Databases are systems that allow users to store and organize data. They are useful when dealing with massive amounts of data.
 
 PostgreSQL is open source, widely used on internet, and multi platform.
 
 SQL(Structured Query Language) is the programming language used to communicate with the database.
+
+# SQL Fundamentals
+
+## SELECT
+
+SELECT: retrieve information from table.
+
+```sql
+SELECT column_name FROM table_name;
+
+SELECT c1, c3 FROM table_1;
+
+SELECT * FROM table_1;
+```
+
+Use an asterisk(*) in the SELECT will automatically query everything, which increases traffic between the data base server and the application, which can slow down the retrieval of results.
+
+
+## SELECT DISTINCT
+
+Sometimes a table contains a column that has duplicate values, and you may find yourself in a situation where you only want to list the distinct values.
+
+DISTINCT: return only the distinct values in a column.
+
+```sql
+SELECT DISTINCT column_name FROM table_name;
+
+SELECT DISTINCT(column_name) FROM table_name;
+```
+
+## COUNT
+
+The COUNT function returns the number of input rows in the table that match a specific condition of a query.
+
+```sql
+SELECT COUNT(DISTINCT column_name) FROM table_name;
+```
+
+## SELECT WHERE
+
+```sql
+SELECT column1, column2 FROM table1 WHERE conditions;
+```
+
+The conditions are used to filter the rows returned from the SELECT statement.
+
+
+```sql
+SELECT name, choice FROM table
+WHERE name='David' AND choice='Red';
+```
+
+## ORDER BY
+
+Sometimes PostgreSQL returns the same request query results in a different order.
+
+You can use *ORDER BY* to sort rows based on a column value, in either ascending or descending order.
+
+```sql
+SELECT column_1, column_2
+FROM table
+ORDER BY column_1 ASC/DESC;
+```
+
+If you leave it blank, ORDER BY uses ASC by default.
+
+You can also *ORDER BY* multiple columns:
+
+```sql
+SELECT company, name, sales
+FROM table
+ORDER BY company, sales;
+```
+
+## LIMIT
+
+The LIMIT command allows us to limit the number of rows returned for a query to get an idea of the table layout.
+
+LIMIT goes at the very end of a query request and is the last command to be executed.
+
+
+## BETWEEN
+
+The BETWEEN operator is the same as:
+
+- ```value >= low AND value <= high```
+- ```value BETWEEN low AND high```
+
+The NOT BETWEEN operator is the same as: 
+
+- ```value < low OR value > high```
+- ```value NOT BETWEEN low AND high```
+
+## IN
+
+Create a condition that checks to see if a value is included in a list of multiple options.
+
+```sql
+SELECT color FROM table
+WHERE color IN/NOT IN ('red', 'blue', 'green');
+```
+
+## LIKE and ILIKE
+
+The LIKE allows us to perform **pattern matching** against string data with the use of **wildcard** characters:
+
+- %: matches any sequence of characters
+- _: matches any single character
+
+LIKE is case-sensitive, while ILIKE is not.
+
+# GROUP BY
+
+
+
+# JOINS
+
+# Advanced SQL
+
+# Creating Databases and Tables
+
+# PostgreSQL with Python
+
