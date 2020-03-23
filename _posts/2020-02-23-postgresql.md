@@ -131,9 +131,67 @@ LIKE is case-sensitive, while ILIKE is not.
 
 # GROUP BY
 
+GROUP BY: aggregate data and apply functions to better understand how data is distributed per category.
 
+## Aggregation Functions
+
+Take multiple inputs and return a single output.
+
+Aggregate function calls happen only in the SELECT clause or the HAVING clause.
+
+Most common aggregate functions:
+- AVG(): returns a floating point value, use ROUND() ro specify precision after the decimal.
+- COUNT()
+- MAX()
+- MIN()
+- SUM()
+
+```sql
+SELECT ROUND(AVG(replacement_cost), 4)
+FROM film;
+```
+
+## GROUP BY
+
+GROUP BY allows us to aggregate columns per some category.
+
+We need to choose a categorical column to GROUP BY.
+
+The GROUP BY clause must appear right after a **FROM**  or **WHERE** statement.
+
+
+```sql
+SELECT category_col, AGG(data_col)
+FROM table1
+GROUP BY category-col;
+```
+
+```sql
+SELECT customer_id, SUM(amount) FROM payment
+GROUP BY customer_id
+ORDER BY SUM(amount) DESC
+```
+
+```sql
+SELECT DATE(payment_date), SUM(amount) FROM payment
+GROUP BY DATE(payment_date)
+ORDER BY SUM(amount) DESC
+```
+
+## HAVING
+
+HAVING allows us to filter after an aggregation has already taken place.
+
+```sql
+SELECT company, SUM(sales)
+FROM finance_table
+GROUP BY company
+HAVING SUM(sales) > 1000;
+```
 
 # JOINS
+
+
 
 # Advanced SQL
 

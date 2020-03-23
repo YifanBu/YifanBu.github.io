@@ -6,14 +6,17 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Data Analytics"
-    url: /ds/ 
-
-  - title: "Cloud DevOps"
-    url: /cloud/
+  - title: "Digital Analytics"
+    url: /da/
 
   - title: "Web Development"
-    url: /webdev/   
+    url: /webdev/ 
+
+  - title: "Machine Learning"
+    url: /ml/ 
+
+  - title: "Cloud"
+    url: /cloud/
 
 
   # - title: "Sample Collections"
