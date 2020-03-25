@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /ml/
+permalink: /machinelearning/
 title: ""
 author_profile: true
 classes: wide

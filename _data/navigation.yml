@@ -13,7 +13,7 @@ main:
     url: /webdev/ 
 
   - title: "Machine Learning"
-    url: /ml/ 
+    url: /machinelearning/ 
 
   - title: "Cloud"
     url: /cloud/

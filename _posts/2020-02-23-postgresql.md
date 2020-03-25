@@ -191,11 +191,70 @@ HAVING SUM(sales) > 1000;
 
 # JOINS
 
+**JOINS** allows us to combine information from multiple tables.
 
+## AS
+
+**AS** allows us to create an "alias" for a column or result.
+
+```sql
+SELECT SUM(amount) AS rental_price
+FROM payment;
+```
+
+**AS** operator gets executed at the very end of a query, meaning that we can not use the ALIAS inside a WHERE operator.
+
+## INNER JOINS
+
+```sql
+SELECT * FROM TableA
+INNER JOIN TableB
+ON TableA.col_match = TableB.col_match;
+```
+
+## FULL OUTER JOINS
+
+Just grabs everything.
+
+```sql
+SELECT * FROM TableA
+FULL OUTER JOIN TableB
+ON TableA.col_match = TableB.col_match;
+```
+
+## LEFT OUTER JOINS
+
+```sql
+SELECT * FROM TableA
+LEFT OUTER JOIN TableB
+ON TableA.col_match = TableB.col_match;
+```
+
+## RIGHT OUTER JOINS
+
+```sql
+SELECT * FROM TableA
+RIGHT OUTER JOIN TableB
+ON TableA.col_match = TableB.col_match;
+```
+
+## UNIONS
+
+UNION combines result sets of two or more SELECT statements into a single result set.
+
+```sql
+SELECT column_1, column_2
+FROM tbl_name_1
+UNION
+SELECT column_1, column_2
+FROM tbl_name_2;
+```
 
 # Advanced SQL
 
+
 # Creating Databases and Tables
+
 
 # PostgreSQL with Python
 
