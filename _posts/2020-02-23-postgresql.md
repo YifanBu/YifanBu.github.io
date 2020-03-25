@@ -13,11 +13,33 @@ toc_icon: "cog"
 
 # Intro
 
-Databases are systems that allow users to store and organize data. They are useful when dealing with massive amounts of data.
+Databases are systems that allow users to *store* and *organize* data. They are useful when dealing with massive amounts of data.
 
 PostgreSQL is open source, widely used on internet, and multi platform.
 
 SQL(Structured Query Language) is the programming language used to communicate with the database.
+
+# Creating Databases and Tables
+
+## Data Types
+
+- Boolean: true, false, NULL
+- Character: char, char(n), varchar(n)
+- Number: integers, floating-point numbers
+- Temporal: data and time related data
+- Special types
+- Array
+
+## Primary Keys & Foreign Keys
+
+A primary key is a column or a group of columns that is used to identify a row uniquely in a table.
+
+A foreign key is a field or group of fields in a table that uniquely identifies a row in another table. In other words, a foreign key is defined in a table that refers to the primary key of the other table.
+
+<!-- 
+## Create Table
+
+-->
 
 # SQL Fundamentals
 
@@ -242,6 +264,8 @@ ON TableA.col_match = TableB.col_match;
 
 UNION combines result sets of two or more SELECT statements into a single result set.
 
+The UNION operator is often used to combine data from similar tables that are not perfectly normalized. Those tables are often found in the reporting or data warehouse system.
+
 ```sql
 SELECT column_1, column_2
 FROM tbl_name_1
@@ -250,11 +274,14 @@ SELECT column_1, column_2
 FROM tbl_name_2;
 ```
 
-# Advanced SQL
+# Advanced SQL Commands
 
-
-# Creating Databases and Tables
-
+- Timestamps and EXTRACT
+- Math Functions
+- String Functions
+- Sub-query
+- Self-Join
 
 # PostgreSQL with Python
+
 

@@ -14,6 +14,9 @@ classes: wide
 ## [PostgreSQL](../_posts/2020-02-23-postgresql.md)
 *Query a Database, Perform Data Analysis*
 
+## [SQL Basic Operations](../_posts/2020-02-07-SQL.md)
+*Storing, Manipulating and Retrieving data in databases.*
+
 ## [Statistics for Data Science](../_posts/2020-02-22-statistics.md)
 
 ## [Machine Learning](../_posts/2020-02-22-ml.md)
@@ -25,8 +28,6 @@ classes: wide
 ## [MongoDB Makes Working With Data Simple](../_posts/2019-11-01-MongoDB.md)
 *MongoDB Development for Web & Mobile Apps.*
 
-## [SQL Basic Operations](../_posts/2020-02-07-SQL.md)
-*Storing, Manipulating and Retrieving data in databases.*
 
 
 

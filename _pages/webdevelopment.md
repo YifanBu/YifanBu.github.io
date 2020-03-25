@@ -50,15 +50,15 @@ classes: wide
 ## [DOM Manipulation and Events](../_posts/2019-09-10-dom.md)
 *DOM Access, DOM Manipulation, Events and Event Handling*
 
+<!--
 ## [Algorithms and Data Structure in JavaScript](../_posts/2019-09-14-algodata.md)
 *Some of the Most Common Coding Interview Questions.*
 
-<!--
+
 ## [Building a GraphQL Server]
--->
+
 
 ## [Back-End: Node.js, Express, and RESTful API](../_posts/2020-01-25-node.md)
 *Node.js and Modern Back-End Development.*
-
-
+-->
 
