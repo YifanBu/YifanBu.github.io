@@ -28,7 +28,3 @@ classes: wide
 ## [MongoDB Makes Working With Data Simple](../_posts/2019-11-01-MongoDB.md)
 *MongoDB Development for Web & Mobile Apps.*
 
-
-
-
-
