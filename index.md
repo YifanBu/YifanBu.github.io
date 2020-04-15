@@ -24,9 +24,9 @@ Education
 Interest
 ----------------
 
-All things related to Software Development, Data Analysis, Machine Learning, Cloud Solutions, Digital Analytics, and APIs. 
+All things related to Software Development, Machine Learning, Cloud Solutions, Digital Analytics, and APIs. 
 
-I am also interested in [building PCs](https://youtu.be/pK-xWLQXf1k){:target="_blank"}, [hiking](https://youtu.be/kbAjOw4U8qQ), writing blogs, and designing robots.
+I am also interested in [Virtual Reality](https://youtu.be/XDZK9TErmBA){:target="_blank"}, [building PCs](https://youtu.be/pK-xWLQXf1k){:target="_blank"}, [hiking](https://youtu.be/kbAjOw4U8qQ){:target="_blank"}, writing blogs, and designing robots.
 
 How to Connect
 --------------
