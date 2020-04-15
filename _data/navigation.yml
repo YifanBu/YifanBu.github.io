@@ -3,20 +3,21 @@ main:
   #- title: "About"
   #  url: /about/
 
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Digital Analytics"
-    url: /da/
 
   - title: "Web Development"
     url: /webdev/ 
+
+  - title: "Digital Analytics"
+    url: /da/
 
   - title: "Machine Learning"
     url: /machinelearning/ 
 
   - title: "Cloud"
     url: /cloud/
+
+  - title: "Portfolio"
+    url: /portfolio/
 
 
   # - title: "Sample Collections"
