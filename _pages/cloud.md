@@ -9,6 +9,15 @@ classes: wide
 ## [BigQuery](../_posts/2020-04-15-bigquery.md) 
 *From Data to Insights with Google Cloud Platform*
 
+## [PostgreSQL](../_posts/2020-02-23-postgresql.md)
+*Query a Database, Perform Data Analysis*
+
+## [SQL Basic Operations](../_posts/2020-02-07-SQL.md)
+*Storing, Manipulating and Retrieving data in databases.*
+
+## [MongoDB Makes Working With Data Simple](../_posts/2019-11-01-MongoDB.md)
+*MongoDB for Web & Mobile Apps.*
+
 ## [Agile Methodology](../_posts/2020-02-06-agile.md)
 *The Art of Iterative and Incremental Software Development*
 
