@@ -7,11 +7,11 @@ classes: wide
 ---
 ## [The Good Old jQuery](../_posts/2020-04-26-jQuery.md)
 
-## [HTML Cheat Sheet](../_posts/2020-01-20-htmlcs.md)
-*Basics, Tips, Tricks, Best Practices and Code Snippets*
-
 ## [DOM Manipulation and Events](../_posts/2019-09-10-dom.md)
 *DOM Access, DOM Manipulation, Events and Event Handling*
+
+## [HTML Cheat Sheet](../_posts/2020-01-20-htmlcs.md)
+*Basics, Tips, Tricks, Best Practices and Code Snippets*
 
 ## [CSS Cheat Sheet](../_posts/2020-01-30-csscs.md)
 *Basics, Tips, Tricks, Best Practices and Code Snippets*
