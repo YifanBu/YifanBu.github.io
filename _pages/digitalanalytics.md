@@ -6,6 +6,9 @@ author_profile: true
 classes: wide
 ---
 
+## [The Power of Machine Learning in Digital Marketing](../_posts/2020-4-29-MLDM.md)
+
+
 ## [Google Chrome DevTools Tips and Tricks](../_posts/2020-4-27-devTool.md)
 
 
