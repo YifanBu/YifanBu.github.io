@@ -3,23 +3,19 @@ main:
   #- title: "About"
   #  url: /about/
 
+  - title: "Python"
+    url: /python/
 
-  - title: "Web Development"
-    url: /webdev/ 
+  - title: "Web"
+    url: /webdev/
 
-  - title: "Digital Analytics"
-    url: /da/
-
-  - title: "Machine Learning"
-    url: /machinelearning/ 
+  - title: "ML"
+    url: /machinelearning/
 
   - title: "Cloud"
     url: /cloud/
-
   # - title: "Portfolio"
   #   url: /portfolio/
-
-
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

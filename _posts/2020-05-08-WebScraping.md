@@ -1,0 +1,50 @@
+---
+title: "Web Scraping with Python"
+date: 2020-05-08
+tags: [Python, Web Scraping]
+header:
+image:
+excerpt: "Python"
+toc: true
+toc_label: "Table of Contents"
+toc_sticky: true
+toc_icon: "cog"
+---
+
+# Basics
+
+## Open a Web Browser
+
+```python
+import webbrowser
+
+webbrowser.open('https://www.google.com')
+```
+
+## Downloading from the Web with the Requests Module
+
+```python
+import requests
+res = requests.get('https://automatetheboringstuff.com/files/rj.txt')
+
+print(res.text[:250])
+```
+
+## Parsing HTML with the Beautiful Soup Module
+
+Web pages are plaintext files formatted as HTML.
+HTML can be parsed with the BeautifulSoup module.
+BeautifulSoup is imported with the name bs4.
+Pass the string with the HTML to the bs4.BeautfiulSoup() function to get a Soup object.
+The Soup object has a select() method that can be passed a string of the CSS selector for an HTML tag.
+You can get a CSS selector string from the browser's developer tools by right-clicking the element and selecting Copy CSS Path.
+The select() method will return a list of matching Element objects.
+
+## Controlling the Browser with the Selenium Module
+
+
+
+
+# References:
+
+https://automatetheboringstuff.com/

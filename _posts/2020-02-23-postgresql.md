@@ -38,7 +38,6 @@ A foreign key is a field or group of fields in a table that uniquely identifies 
 
 <!-- 
 ## Create Table
-
 -->
 
 # SQL Fundamentals

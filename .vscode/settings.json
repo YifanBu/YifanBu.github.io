@@ -1,5 +1,13 @@
 {
   "cSpell.ignoreWords": [
+    "ecommerce",
     "lifecycle"
-  ]
+  ],
+  "python.testing.promptToConfigure": false,
+  "python.testing.pytestEnabled": false,
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.pythonPath": "C:\\Users\\ybu\\Anaconda3\\python.exe",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
 }
