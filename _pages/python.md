@@ -6,13 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-## [Applied Statistics with Python](../_posts/2020-02-22-statistics.md)
-
-_Gain Deeper Insights into Data_
+## [Python Basics](../_posts/2020-07-08-python.md)
 
 ## [Web Scraping with Python](../_posts/2020-05-08-WebScraping.md)
-
-## [Reading and Editing Google Docs with Python](../_posts/2020-05-10-GoogleDoc.md)
 
 ## [Python for Data Science and Machine Learning](../_posts/2020-02-22-pythondsml.md)
 
