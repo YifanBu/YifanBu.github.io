@@ -3,11 +3,11 @@ main:
   #- title: "About"
   #  url: /about/
 
+    - title: "GA4"
+    url: /ga4/
+  
   - title: "Python"
     url: /python/
-
-  - title: "Web"
-    url: /webdev/
 
   - title: "ML"
     url: /machinelearning/

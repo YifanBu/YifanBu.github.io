@@ -109,7 +109,7 @@ author:
   name             : "Ivan Bu"
   avatar           : "/images/bio_photo.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Practice makes perfect."
-  location         : "Melbourne, VIC"
+  location         : "Sydney, NSW"
   email            :
   links:
     - label: "Email"
