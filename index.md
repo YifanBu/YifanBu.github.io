@@ -3,12 +3,12 @@ layout: archive
 title: ""
 author_profile: true
 header:
-  image: "/images/melcity.jpg"
+  image: "/images/header.jpg"
 ---
 
 About Me
 --------
-I currently live in Melbourne, where I work as a Technical Consultant at [Data Runs Deep](https://datarunsdeep.com.au/) making digital analytics accessible to all, leveraging my software development and data analysis skills. 
+I currently live in Sydney, where I work as a Technical Consultant at [Data Runs Deep](https://datarunsdeep.com.au/) making digital analytics accessible to all, leveraging my software development and data analysis skills. 
 
 Education
 ----------------------
