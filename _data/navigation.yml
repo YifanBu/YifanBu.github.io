@@ -6,14 +6,14 @@ main:
   - title: "GA4"
     url: /ga4/
 
-  - title: "Python"
-    url: /python/
+#  - title: "Python"
+#    url: /python/
 
-  - title: "ML"
-    url: /machinelearning/
+#  - title: "ML"
+#    url: /machinelearning/
 
-  - title: "Cloud"
-    url: /cloud/
+#  - title: "Cloud"
+#    url: /cloud/
   # - title: "Portfolio"
   #   url: /portfolio/
   # - title: "Sample Collections"
