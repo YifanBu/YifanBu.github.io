@@ -3,8 +3,11 @@ main:
   #- title: "About"
   #  url: /about/
 
-  - title: "GA4"
+  - title: "Blog"
     url: /ga4/
+
+  - title: "Portfolio"
+    url: /portfolio/
 
 #  - title: "Python"
 #    url: /python/
