@@ -4,7 +4,7 @@ main:
   #  url: /about/
 
   - title: "Blog"
-    url: /ga4/
+    url: /blog/
 
   - title: "Portfolio"
     url: /portfolio/
