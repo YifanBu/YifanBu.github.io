@@ -3,7 +3,7 @@ layout: archive
 title: ""
 author_profile: true
 header:
-  image: "/images/header.jpg"
+  image: "/images/header.jpeg"
 ---
 
 About Me
